@@ -77,13 +77,13 @@ Credits
 Authors
 ~~~~~~~
 
-* Voicent
-* Open Source Integrators
+* Voicent <https://www.voicent.com>
+* Open Source Integrators <https://www.opensourceintegrators.com>
 
 Contributors
 ~~~~~~~~~~~~
 
-* Voicent
+* Voicent <https://www.voicent.com>
 * Maxime Chambreuil <mchambreuil@opensourceintegrators.com>
 
 Maintainers

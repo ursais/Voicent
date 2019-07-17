@@ -85,11 +85,12 @@ Contributors
 
 * Voicent <https://www.voicent.com>
 * Maxime Chambreuil <mchambreuil@opensourceintegrators.com>
+* Pavlov Media <https://www.pavlovmedia.com>
 
 Maintainers
 ~~~~~~~~~~~
 
-This module is maintained by Open Source Integrators.
+This library is maintained by Open Source Integrators.
 
 .. image:: https://github.com/ursais.png
    :alt: Open Source Integrators

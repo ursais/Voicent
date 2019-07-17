@@ -63,6 +63,25 @@ Or, you can download the source code (ZIP) for voicent, and then run:
 
 You may need to run the above commands with sudo.
 
+Usage
+=====
+
+Example:
+
+.. code-block:: bash
+
+ $ cat file.csv
+ "Name","Phone"
+ "John Doe","(000) 000-000"
+
+.. code-block:: python
+
+ import voicent
+
+ v = voicent.Voicent("localhost", "8155", "(111) 111-1111", 1)
+ file_name = 'file.csv'
+ res = v.importAndRunCampaign(file_name, "tts", "Hello World!")
+
 Bug Tracker
 ===========
 
